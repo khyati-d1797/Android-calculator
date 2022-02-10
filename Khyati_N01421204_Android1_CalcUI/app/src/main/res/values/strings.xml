@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Khyati_N01421204</string>
+    <string name="plus">\u002B</string>
+    <string name="minus">\u2212</string>
+    <string name="multiply">\u2217</string>
+    <string name="divide">\u00F7</string>
+    <string name="modulo">\%</string>
+    <string name="dot">\u2219</string>
+    <string name="equal">\u207C</string>
+    <string name="pi">\u220F</string>
+    <string name="exp">\u2091x</string>
+</resources>
